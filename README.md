@@ -6,7 +6,9 @@ by Paul J. Gitschner June 2021
 
 HOW TO PLAY 
 Just PLOW all the BLOCKS off Flatworld then stop the clock.
+
 Plow uses ARROW Keys. Timer counts down. Earth orbit is 60 seconds.
+
 RED cylinder is clock stopper, hit it. - plow can't fall off Flatworld, only blocks can do that,
 and it only looks easy.  If you get to 1 second you get another load of BLOCKS and another 120 seconds. Lowest end time is best. Green marker is fixed for orientation only.
 It's like being a snowplow driver in Canadian winter.
@@ -28,6 +30,7 @@ And I have 27 a set, rubic has 26 plus a core. And I have multiple sets. And tim
 And my gameplay is inverse, you create chaos not order.
 With a Plow, a tool, not your hands.
 ---------------------------------------
-Music:  by me, using a syth keyboard and Sony Acid DAW. Did this whole  piece a few years ago.  And now used  audacity to make a short  clip  -  that annoyingly repeats.
+Music:  by me, using a syth keyboard and Sony Acid DAW. Did this whole  piece a few years ago. 
+And now used  audacity to make a short  clip  -  that annoyingly repeats.
 
 
